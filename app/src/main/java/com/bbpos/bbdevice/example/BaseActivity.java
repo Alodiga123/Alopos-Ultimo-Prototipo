@@ -465,16 +465,31 @@ public class BaseActivity extends FragmentActivity {
 		dialog.show();
 	}
 	public void promptForEmail() throws Exception {
-		dismissDialog();
-		dialog = new Dialog(currentActivity);
-		dialog.setContentView(R.layout.data_dialog);
-		dialog.setTitle(getString(R.string.Id_email));
-		dialog.setCanceledOnTouchOutside(false);
-		EditText checkEmail = (EditText) dialog.findViewById(R.id.Cid);
-/*		final String NAMESPACE = "http://services.ws.acquiring.alodiga.com/";
+//		dismissDialog();
+//		dialog = new Dialog(currentActivity);
+//		dialog.setContentView(R.layout.data_dialog);
+//		dialog.setTitle(getString(R.string.Id_email));
+//		dialog.setCanceledOnTouchOutside(false);
+		Utils utils = new Utils();
+		final String key = utils.getkey(getApplicationContext());
+		final String deviceId = android.provider.Settings.Secure.getString(getApplicationContext().getContentResolver(),
+				android.provider.Settings.Secure.ANDROID_ID);
+		objFragment=new MailCIFragment();
+		Bundle bundle = new Bundle();
+		bundle.putString("key", key);
+		bundle.putString("deviceId",deviceId);
+
+		objFragment.setArguments(bundle);
+		FragmentManager fragmentManager = getSupportFragmentManager();
+		fragmentManager.beginTransaction()
+				.replace(R.id.container, objFragment)
+				.commit();
+
+		/*EditText checkEmail = (EditText) dialog.findViewById(R.id.Cid);
+*//*		final String NAMESPACE = "http://services.ws.acquiring.alodiga.com/";
 		final String METHOD_NAME = "getMailByDocumentno";
 		final String URL = "http://ec2-35-167-158-127.us-west-2.compute.amazonaws.com:8080/UtilmailsWS/UtilEmailsWS";
-		final String SOAP_ACTION ="";*/
+		final String SOAP_ACTION ="";*//*
 		Utils utils = new Utils();
 		final String key = utils.getkey(getApplicationContext());
 		final String deviceId = android.provider.Settings.Secure.getString(getApplicationContext().getContentResolver(),
@@ -559,11 +574,19 @@ public class BaseActivity extends FragmentActivity {
 				stopConnection();
 			}
 		});
-		dialog.show();
+		dialog.show();*/
 	}
 
 	public void promptForAmount() {
-		dismissDialog();
+
+
+		objFragment=new FragmentAmount();
+		FragmentManager fragmentManager = getSupportFragmentManager();
+		fragmentManager.beginTransaction()
+				.replace(R.id.container, objFragment)
+				.commit();
+
+/*		dismissDialog();
 		dialog = new Dialog(currentActivity);
 		dialog.setContentView(R.layout.amount_dialog);
 		dialog.setTitle(getString(R.string.set_amount));
@@ -672,7 +695,7 @@ public class BaseActivity extends FragmentActivity {
 
 		});
 
-		dialog.show();
+		dialog.show();*/
 	}
 	
 	public void promptForCheckCard() {
@@ -738,8 +761,9 @@ public class BaseActivity extends FragmentActivity {
 		dialog.show();
 	}
 	
-	public void promptForStartEmv() {
-		dismissDialog();
+	public void promptForStartEmv(String Id,String mail) {
+		cid=Id;
+		email=mail;
 		checkCardMode = CheckCardMode.SWIPE_OR_INSERT;
 		startEmv();
 		/*dialog = new Dialog(currentActivity);
@@ -2767,9 +2791,9 @@ public class BaseActivity extends FragmentActivity {
 
 			String message = "" + transactionResult + "\n";
 			if (transactionResult == TransactionResult.APPROVED) {
-				message = getString(R.string.amount) + ": $" + amount + "\n";
+				message = getString(R.string.amount) + ": " + amount + "\n";
 				if (!cashbackAmount.equals("")) {
-					message += getString(R.string.cashback_amount) + ": $" + cashbackAmount;
+					message += getString(R.string.cashback_amount) + ": " + cashbackAmount;
 				}
 			}
 			else
@@ -3170,6 +3194,8 @@ public class BaseActivity extends FragmentActivity {
 			String accountType1="1";
 			String maskedpan = decodeData.get("maskedPAN");
 			String bin =maskedpan.substring(0,6);
+			FragmentManager fragmentManager = getSupportFragmentManager();
+			fragmentManager.beginTransaction().detach(objFragment).commit();
 
 
 

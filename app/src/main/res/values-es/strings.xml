@@ -31,4 +31,5 @@
     <string name="invalid_transaction">Transaccion invalida</string>
     <string name="terminal_failure">Fallo del terminal</string>
     <string name="invalid_card">Tarjeta inválida</string>
+    <string name="select_account">Seleccione tipo de cuenta</string>
 </resources>

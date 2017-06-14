@@ -52,12 +52,12 @@
         "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/check_card_mode_dialog.xml"
     },
     {
-        "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/amount_dialog.xml",
         "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/amount_dialog.xml"
+    },
+    {
+        "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/inject_mk.xml",
@@ -136,12 +136,12 @@
         "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/splash_activity.xml"
     },
     {
-        "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/fragment_mail_cid.xml",
-        "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/fragment_mail_cid.xml"
-    },
-    {
         "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/general_string_and_radio_box_dialog.xml",
         "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/general_string_and_radio_box_dialog.xml"
+    },
+    {
+        "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/fragment_amount.xml",
+        "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/fragment_amount.xml"
     },
     {
         "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/control_led_dialog.xml",
@@ -170,6 +170,10 @@
     {
         "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/application_dialog.xml",
         "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/application_dialog.xml"
+    },
+    {
+        "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/fragment_mailci.xml",
+        "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/fragment_mailci.xml"
     },
     {
         "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/main_fragment.xml",

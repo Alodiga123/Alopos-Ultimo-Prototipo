@@ -28,52 +28,52 @@
 
 	</LinearLayout>
 
-
-	<LinearLayout
-		android:layout_width="fill_parent"
-		android:layout_height="278dp"
-		android:orientation="vertical"
-		android:weightSum="1"
+	<FrameLayout
+		android:id="@+id/container"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
 		android:layout_centerHorizontal="true"
 		android:layout_centerVertical="true"
-		android:layout_alignParentBottom="true"
-		android:layout_alignParentLeft="true"
-		android:layout_alignParentStart="true"
-		android:layout_marginBottom="85dp">
 
-		<FrameLayout
-			android:id="@+id/container"
-			android:layout_width="match_parent"
-			android:layout_height="match_parent">
+		android:layout_marginLeft="14dp"
+		android:layout_marginStart="14dp">
+</FrameLayout>
 
 
-
-		</FrameLayout>
-
-		<TextView
-			android:id="@+id/amountEditText"
+		<LinearLayout
 			android:layout_width="fill_parent"
 			android:layout_height="wrap_content"
-			android:layout_marginLeft="5dip"
-			android:layout_marginRight="5dip"
-			android:layout_marginBottom="50dp"
-			android:textSize="20sp"
-			android:textColor="#000000"
-			android:gravity="center" />
+			android:orientation="vertical"
+			android:weightSum="1"
+			android:layout_alignParentBottom="true"
+			android:layout_alignParentLeft="true"
+			android:layout_alignParentStart="true">
 
 
+			<TextView
+				android:id="@+id/amountEditText"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginBottom="50dp"
+				android:layout_marginLeft="5dip"
+				android:layout_marginRight="5dip"
+				android:gravity="center"
+				android:textColor="#000000"
+				android:textSize="20sp" />
 
-		<TextView
-			android:id="@+id/statusEditText"
-			android:layout_width="fill_parent"
-			android:layout_height="wrap_content"
-			android:layout_marginLeft="5dip"
-			android:layout_marginRight="5dip"
-			android:gravity="center"
-			android:textSize="20sp"
-			android:layout_marginTop="50dp"
-			android:layout_alignParentBottom= "true"
-			android:textColor="#000000"  />
-	</LinearLayout>
+
+			<TextView
+				android:id="@+id/statusEditText"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_alignParentBottom="true"
+				android:layout_marginLeft="5dip"
+				android:layout_marginRight="5dip"
+				android:layout_marginTop="50dp"
+				android:gravity="center"
+				android:textColor="#000000"
+				android:textSize="20sp" />
+		</LinearLayout>
+
 
 </RelativeLayout>

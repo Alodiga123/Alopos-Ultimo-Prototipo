@@ -11809,27 +11809,20 @@
                     "startLine": 185,
                     "startColumn": 4,
                     "startOffset": 11608,
-                    "endColumn": 69,
-                    "endOffset": 11673
+                    "endColumn": 63,
+                    "endOffset": 11667
                 },
                 "from": {
-                    "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 505,
-                        "startColumn": 4,
-                        "startOffset": 32846,
-                        "endColumn": 69,
-                        "endOffset": 32911
-                    }
+                    "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 11678,
-                    "endColumn": 63,
-                    "endOffset": 11737
+                    "startOffset": 11672,
+                    "endColumn": 55,
+                    "endOffset": 11723
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11839,9 +11832,9 @@
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 11742,
-                    "endColumn": 55,
-                    "endOffset": 11793
+                    "startOffset": 11728,
+                    "endColumn": 40,
+                    "endOffset": 11764
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11851,9 +11844,9 @@
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 11798,
-                    "endColumn": 40,
-                    "endOffset": 11834
+                    "startOffset": 11769,
+                    "endColumn": 59,
+                    "endOffset": 11824
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11863,9 +11856,9 @@
                 "to": {
                     "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 11839,
-                    "endColumn": 59,
-                    "endOffset": 11894
+                    "startOffset": 11829,
+                    "endColumn": 54,
+                    "endOffset": 11879
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11875,9 +11868,9 @@
                 "to": {
                     "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 11899,
-                    "endColumn": 54,
-                    "endOffset": 11949
+                    "startOffset": 11884,
+                    "endColumn": 72,
+                    "endOffset": 11952
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11887,9 +11880,9 @@
                 "to": {
                     "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 11954,
-                    "endColumn": 72,
-                    "endOffset": 12022
+                    "startOffset": 11957,
+                    "endColumn": 63,
+                    "endOffset": 12016
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11899,9 +11892,9 @@
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 12027,
-                    "endColumn": 63,
-                    "endOffset": 12086
+                    "startOffset": 12021,
+                    "endColumn": 73,
+                    "endOffset": 12090
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11911,9 +11904,9 @@
                 "to": {
                     "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 12091,
-                    "endColumn": 73,
-                    "endOffset": 12160
+                    "startOffset": 12095,
+                    "endColumn": 79,
+                    "endOffset": 12170
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11923,9 +11916,9 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 12165,
-                    "endColumn": 79,
-                    "endOffset": 12240
+                    "startOffset": 12175,
+                    "endColumn": 65,
+                    "endOffset": 12236
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11935,9 +11928,9 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 12245,
-                    "endColumn": 65,
-                    "endOffset": 12306
+                    "startOffset": 12241,
+                    "endColumn": 79,
+                    "endOffset": 12316
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11947,9 +11940,9 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 12311,
-                    "endColumn": 79,
-                    "endOffset": 12386
+                    "startOffset": 12321,
+                    "endColumn": 81,
+                    "endOffset": 12398
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11959,9 +11952,9 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 12391,
-                    "endColumn": 81,
-                    "endOffset": 12468
+                    "startOffset": 12403,
+                    "endColumn": 54,
+                    "endOffset": 12453
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11971,9 +11964,9 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 12473,
-                    "endColumn": 54,
-                    "endOffset": 12523
+                    "startOffset": 12458,
+                    "endColumn": 56,
+                    "endOffset": 12510
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11983,9 +11976,9 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 12528,
-                    "endColumn": 56,
-                    "endOffset": 12580
+                    "startOffset": 12515,
+                    "endColumn": 41,
+                    "endOffset": 12552
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -11995,9 +11988,9 @@
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 12585,
-                    "endColumn": 41,
-                    "endOffset": 12622
+                    "startOffset": 12557,
+                    "endColumn": 58,
+                    "endOffset": 12611
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12007,9 +12000,9 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 12627,
-                    "endColumn": 58,
-                    "endOffset": 12681
+                    "startOffset": 12616,
+                    "endColumn": 76,
+                    "endOffset": 12688
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12019,9 +12012,9 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 12686,
-                    "endColumn": 76,
-                    "endOffset": 12758
+                    "startOffset": 12693,
+                    "endColumn": 109,
+                    "endOffset": 12798
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12031,9 +12024,9 @@
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 12763,
-                    "endColumn": 109,
-                    "endOffset": 12868
+                    "startOffset": 12803,
+                    "endColumn": 52,
+                    "endOffset": 12851
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12043,9 +12036,9 @@
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 12873,
-                    "endColumn": 52,
-                    "endOffset": 12921
+                    "startOffset": 12856,
+                    "endColumn": 72,
+                    "endOffset": 12924
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12055,9 +12048,9 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 12926,
-                    "endColumn": 72,
-                    "endOffset": 12994
+                    "startOffset": 12929,
+                    "endColumn": 101,
+                    "endOffset": 13026
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12067,9 +12060,9 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 12999,
-                    "endColumn": 101,
-                    "endOffset": 13096
+                    "startOffset": 13031,
+                    "endColumn": 65,
+                    "endOffset": 13092
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12079,9 +12072,9 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 13101,
-                    "endColumn": 65,
-                    "endOffset": 13162
+                    "startOffset": 13097,
+                    "endColumn": 57,
+                    "endOffset": 13150
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12091,9 +12084,9 @@
                 "to": {
                     "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 13167,
-                    "endColumn": 57,
-                    "endOffset": 13220
+                    "startOffset": 13155,
+                    "endColumn": 53,
+                    "endOffset": 13204
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12103,9 +12096,9 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 13225,
-                    "endColumn": 53,
-                    "endOffset": 13274
+                    "startOffset": 13209,
+                    "endColumn": 67,
+                    "endOffset": 13272
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12115,9 +12108,9 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 13279,
-                    "endColumn": 67,
-                    "endOffset": 13342
+                    "startOffset": 13277,
+                    "endColumn": 64,
+                    "endOffset": 13337
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12127,9 +12120,9 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 13347,
-                    "endColumn": 64,
-                    "endOffset": 13407
+                    "startOffset": 13342,
+                    "endColumn": 61,
+                    "endOffset": 13399
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12139,9 +12132,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 13412,
+                    "startOffset": 13404,
                     "endColumn": 61,
-                    "endOffset": 13469
+                    "endOffset": 13461
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12151,9 +12144,9 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 13474,
-                    "endColumn": 61,
-                    "endOffset": 13531
+                    "startOffset": 13466,
+                    "endColumn": 67,
+                    "endOffset": 13529
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12163,9 +12156,9 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 13536,
-                    "endColumn": 67,
-                    "endOffset": 13599
+                    "startOffset": 13534,
+                    "endColumn": 73,
+                    "endOffset": 13603
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12175,9 +12168,9 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 13604,
-                    "endColumn": 73,
-                    "endOffset": 13673
+                    "startOffset": 13608,
+                    "endColumn": 47,
+                    "endOffset": 13651
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12187,9 +12180,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 13678,
-                    "endColumn": 47,
-                    "endOffset": 13721
+                    "startOffset": 13656,
+                    "endColumn": 53,
+                    "endOffset": 13705
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12199,9 +12192,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 13726,
-                    "endColumn": 53,
-                    "endOffset": 13775
+                    "startOffset": 13710,
+                    "endColumn": 63,
+                    "endOffset": 13769
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12211,8 +12204,8 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 13780,
-                    "endColumn": 63,
+                    "startOffset": 13774,
+                    "endColumn": 69,
                     "endOffset": 13839
                 },
                 "from": {
@@ -12224,8 +12217,8 @@
                     "startLine": 219,
                     "startColumn": 4,
                     "startOffset": 13844,
-                    "endColumn": 69,
-                    "endOffset": 13909
+                    "endColumn": 34,
+                    "endOffset": 13874
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12235,9 +12228,9 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 13914,
-                    "endColumn": 34,
-                    "endOffset": 13944
+                    "startOffset": 13879,
+                    "endColumn": 37,
+                    "endOffset": 13912
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12247,9 +12240,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 13949,
-                    "endColumn": 37,
-                    "endOffset": 13982
+                    "startOffset": 13917,
+                    "endColumn": 65,
+                    "endOffset": 13978
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12259,9 +12252,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 13987,
-                    "endColumn": 65,
-                    "endOffset": 14048
+                    "startOffset": 13983,
+                    "endColumn": 57,
+                    "endOffset": 14036
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12271,9 +12264,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 14053,
-                    "endColumn": 57,
-                    "endOffset": 14106
+                    "startOffset": 14041,
+                    "endColumn": 53,
+                    "endOffset": 14090
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12283,9 +12276,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 14111,
-                    "endColumn": 53,
-                    "endOffset": 14160
+                    "startOffset": 14095,
+                    "endColumn": 35,
+                    "endOffset": 14126
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12295,9 +12288,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 14165,
-                    "endColumn": 35,
-                    "endOffset": 14196
+                    "startOffset": 14131,
+                    "endColumn": 61,
+                    "endOffset": 14188
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12307,9 +12300,9 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 14201,
-                    "endColumn": 61,
-                    "endOffset": 14258
+                    "startOffset": 14193,
+                    "endColumn": 48,
+                    "endOffset": 14237
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12319,9 +12312,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 14263,
-                    "endColumn": 48,
-                    "endOffset": 14307
+                    "startOffset": 14242,
+                    "endColumn": 46,
+                    "endOffset": 14284
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12331,9 +12324,9 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 14312,
-                    "endColumn": 46,
-                    "endOffset": 14354
+                    "startOffset": 14289,
+                    "endColumn": 36,
+                    "endOffset": 14321
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12343,9 +12336,9 @@
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 14359,
-                    "endColumn": 36,
-                    "endOffset": 14391
+                    "startOffset": 14326,
+                    "endColumn": 45,
+                    "endOffset": 14367
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12355,9 +12348,9 @@
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 14396,
-                    "endColumn": 45,
-                    "endOffset": 14437
+                    "startOffset": 14372,
+                    "endColumn": 60,
+                    "endOffset": 14428
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12367,9 +12360,9 @@
                 "to": {
                     "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 14442,
-                    "endColumn": 60,
-                    "endOffset": 14498
+                    "startOffset": 14433,
+                    "endColumn": 45,
+                    "endOffset": 14474
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12379,9 +12372,9 @@
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 14503,
-                    "endColumn": 45,
-                    "endOffset": 14544
+                    "startOffset": 14479,
+                    "endColumn": 75,
+                    "endOffset": 14550
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12391,9 +12384,9 @@
                 "to": {
                     "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 14549,
-                    "endColumn": 75,
-                    "endOffset": 14620
+                    "startOffset": 14555,
+                    "endColumn": 61,
+                    "endOffset": 14612
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12403,9 +12396,9 @@
                 "to": {
                     "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 14625,
-                    "endColumn": 61,
-                    "endOffset": 14682
+                    "startOffset": 14617,
+                    "endColumn": 51,
+                    "endOffset": 14664
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12415,9 +12408,9 @@
                 "to": {
                     "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 14687,
-                    "endColumn": 51,
-                    "endOffset": 14734
+                    "startOffset": 14669,
+                    "endColumn": 64,
+                    "endOffset": 14729
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12427,9 +12420,9 @@
                 "to": {
                     "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 14739,
-                    "endColumn": 64,
-                    "endOffset": 14799
+                    "startOffset": 14734,
+                    "endColumn": 101,
+                    "endOffset": 14831
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12439,9 +12432,9 @@
                 "to": {
                     "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 14804,
-                    "endColumn": 101,
-                    "endOffset": 14901
+                    "startOffset": 14836,
+                    "endColumn": 42,
+                    "endOffset": 14874
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12451,9 +12444,9 @@
                 "to": {
                     "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 14906,
-                    "endColumn": 42,
-                    "endOffset": 14944
+                    "startOffset": 14879,
+                    "endColumn": 44,
+                    "endOffset": 14919
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12463,9 +12456,9 @@
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 14949,
-                    "endColumn": 44,
-                    "endOffset": 14989
+                    "startOffset": 14924,
+                    "endColumn": 53,
+                    "endOffset": 14973
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12475,9 +12468,9 @@
                 "to": {
                     "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 14994,
-                    "endColumn": 53,
-                    "endOffset": 15043
+                    "startOffset": 14978,
+                    "endColumn": 65,
+                    "endOffset": 15039
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12487,9 +12480,9 @@
                 "to": {
                     "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 15048,
-                    "endColumn": 65,
-                    "endOffset": 15109
+                    "startOffset": 15044,
+                    "endColumn": 41,
+                    "endOffset": 15081
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12499,9 +12492,9 @@
                 "to": {
                     "startLine": 242,
                     "startColumn": 4,
-                    "startOffset": 15114,
-                    "endColumn": 41,
-                    "endOffset": 15151
+                    "startOffset": 15086,
+                    "endColumn": 51,
+                    "endOffset": 15133
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12511,9 +12504,9 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 15156,
-                    "endColumn": 51,
-                    "endOffset": 15203
+                    "startOffset": 15138,
+                    "endColumn": 44,
+                    "endOffset": 15178
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12523,9 +12516,9 @@
                 "to": {
                     "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 15208,
-                    "endColumn": 44,
-                    "endOffset": 15248
+                    "startOffset": 15183,
+                    "endColumn": 74,
+                    "endOffset": 15253
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12535,9 +12528,9 @@
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 15253,
-                    "endColumn": 74,
-                    "endOffset": 15323
+                    "startOffset": 15258,
+                    "endColumn": 54,
+                    "endOffset": 15308
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12547,9 +12540,9 @@
                 "to": {
                     "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 15328,
-                    "endColumn": 54,
-                    "endOffset": 15378
+                    "startOffset": 15313,
+                    "endColumn": 35,
+                    "endOffset": 15344
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12559,9 +12552,9 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 15383,
-                    "endColumn": 35,
-                    "endOffset": 15414
+                    "startOffset": 15349,
+                    "endColumn": 82,
+                    "endOffset": 15427
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12571,9 +12564,9 @@
                 "to": {
                     "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 15419,
-                    "endColumn": 82,
-                    "endOffset": 15497
+                    "startOffset": 15432,
+                    "endColumn": 56,
+                    "endOffset": 15484
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12583,9 +12576,9 @@
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 15502,
-                    "endColumn": 56,
-                    "endOffset": 15554
+                    "startOffset": 15489,
+                    "endColumn": 73,
+                    "endOffset": 15558
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12595,9 +12588,9 @@
                 "to": {
                     "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 15559,
-                    "endColumn": 73,
-                    "endOffset": 15628
+                    "startOffset": 15563,
+                    "endColumn": 83,
+                    "endOffset": 15642
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12607,9 +12600,9 @@
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 15633,
-                    "endColumn": 83,
-                    "endOffset": 15712
+                    "startOffset": 15647,
+                    "endColumn": 85,
+                    "endOffset": 15728
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12619,9 +12612,9 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 15717,
-                    "endColumn": 85,
-                    "endOffset": 15798
+                    "startOffset": 15733,
+                    "endColumn": 79,
+                    "endOffset": 15808
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12631,9 +12624,9 @@
                 "to": {
                     "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 15803,
-                    "endColumn": 79,
-                    "endOffset": 15878
+                    "startOffset": 15813,
+                    "endColumn": 77,
+                    "endOffset": 15886
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12643,9 +12636,9 @@
                 "to": {
                     "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 15883,
-                    "endColumn": 77,
-                    "endOffset": 15956
+                    "startOffset": 15891,
+                    "endColumn": 45,
+                    "endOffset": 15932
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12655,9 +12648,9 @@
                 "to": {
                     "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 15961,
-                    "endColumn": 45,
-                    "endOffset": 16002
+                    "startOffset": 15937,
+                    "endColumn": 70,
+                    "endOffset": 16003
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12667,9 +12660,9 @@
                 "to": {
                     "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 16007,
-                    "endColumn": 70,
-                    "endOffset": 16073
+                    "startOffset": 16008,
+                    "endColumn": 57,
+                    "endOffset": 16061
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12679,9 +12672,9 @@
                 "to": {
                     "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 16078,
-                    "endColumn": 57,
-                    "endOffset": 16131
+                    "startOffset": 16066,
+                    "endColumn": 61,
+                    "endOffset": 16123
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12691,9 +12684,9 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 16136,
-                    "endColumn": 61,
-                    "endOffset": 16193
+                    "startOffset": 16128,
+                    "endColumn": 66,
+                    "endOffset": 16190
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12703,9 +12696,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 16198,
-                    "endColumn": 66,
-                    "endOffset": 16260
+                    "startOffset": 16195,
+                    "endColumn": 45,
+                    "endOffset": 16236
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12715,9 +12708,9 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 16265,
-                    "endColumn": 45,
-                    "endOffset": 16306
+                    "startOffset": 16241,
+                    "endColumn": 41,
+                    "endOffset": 16278
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12727,9 +12720,9 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 16311,
-                    "endColumn": 41,
-                    "endOffset": 16348
+                    "startOffset": 16283,
+                    "endColumn": 53,
+                    "endOffset": 16332
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12739,9 +12732,9 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 16353,
-                    "endColumn": 53,
-                    "endOffset": 16402
+                    "startOffset": 16337,
+                    "endColumn": 78,
+                    "endOffset": 16411
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12751,9 +12744,9 @@
                 "to": {
                     "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 16407,
-                    "endColumn": 78,
-                    "endOffset": 16481
+                    "startOffset": 16416,
+                    "endColumn": 59,
+                    "endOffset": 16471
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12763,9 +12756,9 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 16486,
-                    "endColumn": 59,
-                    "endOffset": 16541
+                    "startOffset": 16476,
+                    "endColumn": 48,
+                    "endOffset": 16520
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12775,9 +12768,9 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 16546,
-                    "endColumn": 48,
-                    "endOffset": 16590
+                    "startOffset": 16525,
+                    "endColumn": 60,
+                    "endOffset": 16581
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12787,9 +12780,9 @@
                 "to": {
                     "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 16595,
-                    "endColumn": 60,
-                    "endOffset": 16651
+                    "startOffset": 16586,
+                    "endColumn": 57,
+                    "endOffset": 16639
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12799,9 +12792,9 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 16656,
-                    "endColumn": 57,
-                    "endOffset": 16709
+                    "startOffset": 16644,
+                    "endColumn": 36,
+                    "endOffset": 16676
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12811,9 +12804,9 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 16714,
-                    "endColumn": 36,
-                    "endOffset": 16746
+                    "startOffset": 16681,
+                    "endColumn": 57,
+                    "endOffset": 16734
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12823,9 +12816,9 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 16751,
-                    "endColumn": 57,
-                    "endOffset": 16804
+                    "startOffset": 16739,
+                    "endColumn": 73,
+                    "endOffset": 16808
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12835,9 +12828,9 @@
                 "to": {
                     "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 16809,
-                    "endColumn": 73,
-                    "endOffset": 16878
+                    "startOffset": 16813,
+                    "endColumn": 48,
+                    "endOffset": 16857
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12847,9 +12840,9 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 16883,
-                    "endColumn": 48,
-                    "endOffset": 16927
+                    "startOffset": 16862,
+                    "endColumn": 61,
+                    "endOffset": 16919
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12859,9 +12852,9 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 16932,
-                    "endColumn": 61,
-                    "endOffset": 16989
+                    "startOffset": 16924,
+                    "endColumn": 51,
+                    "endOffset": 16971
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12871,9 +12864,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 16994,
-                    "endColumn": 51,
-                    "endOffset": 17041
+                    "startOffset": 16976,
+                    "endColumn": 35,
+                    "endOffset": 17007
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12883,9 +12876,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 17046,
-                    "endColumn": 35,
-                    "endOffset": 17077
+                    "startOffset": 17012,
+                    "endColumn": 53,
+                    "endOffset": 17061
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12895,9 +12888,9 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 17082,
+                    "startOffset": 17066,
                     "endColumn": 53,
-                    "endOffset": 17131
+                    "endOffset": 17115
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12907,9 +12900,9 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 17136,
-                    "endColumn": 53,
-                    "endOffset": 17185
+                    "startOffset": 17120,
+                    "endColumn": 51,
+                    "endOffset": 17167
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12919,9 +12912,9 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 17190,
-                    "endColumn": 51,
-                    "endOffset": 17237
+                    "startOffset": 17172,
+                    "endColumn": 45,
+                    "endOffset": 17213
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12931,9 +12924,9 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 17242,
-                    "endColumn": 45,
-                    "endOffset": 17283
+                    "startOffset": 17218,
+                    "endColumn": 41,
+                    "endOffset": 17255
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12943,9 +12936,9 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 17288,
-                    "endColumn": 41,
-                    "endOffset": 17325
+                    "startOffset": 17260,
+                    "endColumn": 51,
+                    "endOffset": 17307
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12955,9 +12948,9 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 17330,
-                    "endColumn": 51,
-                    "endOffset": 17377
+                    "startOffset": 17312,
+                    "endColumn": 73,
+                    "endOffset": 17381
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12967,9 +12960,9 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 17382,
-                    "endColumn": 73,
-                    "endOffset": 17451
+                    "startOffset": 17386,
+                    "endColumn": 71,
+                    "endOffset": 17453
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12979,9 +12972,9 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 17456,
-                    "endColumn": 71,
-                    "endOffset": 17523
+                    "startOffset": 17458,
+                    "endColumn": 65,
+                    "endOffset": 17519
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -12991,9 +12984,9 @@
                 "to": {
                     "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 17528,
-                    "endColumn": 65,
-                    "endOffset": 17589
+                    "startOffset": 17524,
+                    "endColumn": 73,
+                    "endOffset": 17593
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13003,9 +12996,9 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 17594,
+                    "startOffset": 17598,
                     "endColumn": 73,
-                    "endOffset": 17663
+                    "endOffset": 17667
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13015,9 +13008,9 @@
                 "to": {
                     "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 17668,
-                    "endColumn": 73,
-                    "endOffset": 17737
+                    "startOffset": 17672,
+                    "endColumn": 97,
+                    "endOffset": 17765
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13027,9 +13020,9 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 17742,
-                    "endColumn": 97,
-                    "endOffset": 17835
+                    "startOffset": 17770,
+                    "endColumn": 63,
+                    "endOffset": 17829
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13039,9 +13032,9 @@
                 "to": {
                     "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 17840,
+                    "startOffset": 17834,
                     "endColumn": 63,
-                    "endOffset": 17899
+                    "endOffset": 17893
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13051,9 +13044,9 @@
                 "to": {
                     "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 17904,
-                    "endColumn": 63,
-                    "endOffset": 17963
+                    "startOffset": 17898,
+                    "endColumn": 77,
+                    "endOffset": 17971
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13063,9 +13056,9 @@
                 "to": {
                     "startLine": 289,
                     "startColumn": 4,
-                    "startOffset": 17968,
-                    "endColumn": 77,
-                    "endOffset": 18041
+                    "startOffset": 17976,
+                    "endColumn": 85,
+                    "endOffset": 18057
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13075,9 +13068,9 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 18046,
-                    "endColumn": 85,
-                    "endOffset": 18127
+                    "startOffset": 18062,
+                    "endColumn": 78,
+                    "endOffset": 18136
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13087,9 +13080,9 @@
                 "to": {
                     "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 18132,
-                    "endColumn": 78,
-                    "endOffset": 18206
+                    "startOffset": 18141,
+                    "endColumn": 71,
+                    "endOffset": 18208
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13099,9 +13092,9 @@
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 18211,
-                    "endColumn": 71,
-                    "endOffset": 18278
+                    "startOffset": 18213,
+                    "endColumn": 59,
+                    "endOffset": 18268
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13111,8 +13104,8 @@
                 "to": {
                     "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 18283,
-                    "endColumn": 59,
+                    "startOffset": 18273,
+                    "endColumn": 69,
                     "endOffset": 18338
                 },
                 "from": {
@@ -13124,8 +13117,8 @@
                     "startLine": 294,
                     "startColumn": 4,
                     "startOffset": 18343,
-                    "endColumn": 69,
-                    "endOffset": 18408
+                    "endColumn": 52,
+                    "endOffset": 18391
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13135,9 +13128,9 @@
                 "to": {
                     "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 18413,
-                    "endColumn": 52,
-                    "endOffset": 18461
+                    "startOffset": 18396,
+                    "endColumn": 53,
+                    "endOffset": 18445
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13147,9 +13140,9 @@
                 "to": {
                     "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 18466,
-                    "endColumn": 53,
-                    "endOffset": 18515
+                    "startOffset": 18450,
+                    "endColumn": 57,
+                    "endOffset": 18503
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13159,8 +13152,8 @@
                 "to": {
                     "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 18520,
-                    "endColumn": 57,
+                    "startOffset": 18508,
+                    "endColumn": 69,
                     "endOffset": 18573
                 },
                 "from": {
@@ -13172,8 +13165,8 @@
                     "startLine": 298,
                     "startColumn": 4,
                     "startOffset": 18578,
-                    "endColumn": 69,
-                    "endOffset": 18643
+                    "endColumn": 49,
+                    "endOffset": 18623
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13183,9 +13176,9 @@
                 "to": {
                     "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 18648,
-                    "endColumn": 49,
-                    "endOffset": 18693
+                    "startOffset": 18628,
+                    "endColumn": 55,
+                    "endOffset": 18679
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13195,8 +13188,8 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 18698,
-                    "endColumn": 55,
+                    "startOffset": 18684,
+                    "endColumn": 69,
                     "endOffset": 18749
                 },
                 "from": {
@@ -13208,8 +13201,8 @@
                     "startLine": 301,
                     "startColumn": 4,
                     "startOffset": 18754,
-                    "endColumn": 69,
-                    "endOffset": 18819
+                    "endColumn": 71,
+                    "endOffset": 18821
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13219,9 +13212,9 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 18824,
-                    "endColumn": 71,
-                    "endOffset": 18891
+                    "startOffset": 18826,
+                    "endColumn": 53,
+                    "endOffset": 18875
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13231,9 +13224,9 @@
                 "to": {
                     "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 18896,
-                    "endColumn": 53,
-                    "endOffset": 18945
+                    "startOffset": 18880,
+                    "endColumn": 67,
+                    "endOffset": 18943
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13243,8 +13236,8 @@
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 18950,
-                    "endColumn": 67,
+                    "startOffset": 18948,
+                    "endColumn": 69,
                     "endOffset": 19013
                 },
                 "from": {
@@ -13256,8 +13249,8 @@
                     "startLine": 305,
                     "startColumn": 4,
                     "startOffset": 19018,
-                    "endColumn": 69,
-                    "endOffset": 19083
+                    "endColumn": 73,
+                    "endOffset": 19087
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13267,9 +13260,9 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 19088,
-                    "endColumn": 73,
-                    "endOffset": 19157
+                    "startOffset": 19092,
+                    "endColumn": 60,
+                    "endOffset": 19148
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13279,9 +13272,9 @@
                 "to": {
                     "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 19162,
-                    "endColumn": 60,
-                    "endOffset": 19218
+                    "startOffset": 19153,
+                    "endColumn": 75,
+                    "endOffset": 19224
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13291,9 +13284,9 @@
                 "to": {
                     "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 19223,
-                    "endColumn": 75,
-                    "endOffset": 19294
+                    "startOffset": 19229,
+                    "endColumn": 55,
+                    "endOffset": 19280
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13303,9 +13296,9 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 19299,
-                    "endColumn": 55,
-                    "endOffset": 19350
+                    "startOffset": 19285,
+                    "endColumn": 83,
+                    "endOffset": 19364
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13315,9 +13308,9 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 19355,
-                    "endColumn": 83,
-                    "endOffset": 19434
+                    "startOffset": 19369,
+                    "endColumn": 71,
+                    "endOffset": 19436
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13327,9 +13320,9 @@
                 "to": {
                     "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 19439,
-                    "endColumn": 71,
-                    "endOffset": 19506
+                    "startOffset": 19441,
+                    "endColumn": 61,
+                    "endOffset": 19498
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13339,9 +13332,9 @@
                 "to": {
                     "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 19511,
-                    "endColumn": 61,
-                    "endOffset": 19568
+                    "startOffset": 19503,
+                    "endColumn": 50,
+                    "endOffset": 19549
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13351,9 +13344,9 @@
                 "to": {
                     "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 19573,
-                    "endColumn": 50,
-                    "endOffset": 19619
+                    "startOffset": 19554,
+                    "endColumn": 61,
+                    "endOffset": 19611
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13363,9 +13356,9 @@
                 "to": {
                     "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 19624,
-                    "endColumn": 61,
-                    "endOffset": 19681
+                    "startOffset": 19616,
+                    "endColumn": 50,
+                    "endOffset": 19662
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13375,9 +13368,9 @@
                 "to": {
                     "startLine": 315,
                     "startColumn": 4,
-                    "startOffset": 19686,
-                    "endColumn": 50,
-                    "endOffset": 19732
+                    "startOffset": 19667,
+                    "endColumn": 54,
+                    "endOffset": 19717
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13387,9 +13380,9 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 19737,
-                    "endColumn": 54,
-                    "endOffset": 19787
+                    "startOffset": 19722,
+                    "endColumn": 65,
+                    "endOffset": 19783
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13399,9 +13392,9 @@
                 "to": {
                     "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 19792,
-                    "endColumn": 65,
-                    "endOffset": 19853
+                    "startOffset": 19788,
+                    "endColumn": 56,
+                    "endOffset": 19840
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13411,9 +13404,9 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 19858,
-                    "endColumn": 56,
-                    "endOffset": 19910
+                    "startOffset": 19845,
+                    "endColumn": 45,
+                    "endOffset": 19886
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13423,9 +13416,9 @@
                 "to": {
                     "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 19915,
-                    "endColumn": 45,
-                    "endOffset": 19956
+                    "startOffset": 19891,
+                    "endColumn": 55,
+                    "endOffset": 19942
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13435,9 +13428,9 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 19961,
-                    "endColumn": 55,
-                    "endOffset": 20012
+                    "startOffset": 19947,
+                    "endColumn": 61,
+                    "endOffset": 20004
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13447,9 +13440,9 @@
                 "to": {
                     "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 20017,
-                    "endColumn": 61,
-                    "endOffset": 20074
+                    "startOffset": 20009,
+                    "endColumn": 55,
+                    "endOffset": 20060
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13459,9 +13452,9 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 20079,
-                    "endColumn": 55,
-                    "endOffset": 20130
+                    "startOffset": 20065,
+                    "endColumn": 73,
+                    "endOffset": 20134
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13471,9 +13464,9 @@
                 "to": {
                     "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 20135,
-                    "endColumn": 73,
-                    "endOffset": 20204
+                    "startOffset": 20139,
+                    "endColumn": 79,
+                    "endOffset": 20214
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13483,9 +13476,9 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 20209,
-                    "endColumn": 79,
-                    "endOffset": 20284
+                    "startOffset": 20219,
+                    "endColumn": 125,
+                    "endOffset": 20340
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13495,9 +13488,9 @@
                 "to": {
                     "startLine": 325,
                     "startColumn": 4,
-                    "startOffset": 20289,
-                    "endColumn": 125,
-                    "endOffset": 20410
+                    "startOffset": 20345,
+                    "endColumn": 113,
+                    "endOffset": 20454
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13507,9 +13500,9 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 20415,
-                    "endColumn": 113,
-                    "endOffset": 20524
+                    "startOffset": 20459,
+                    "endColumn": 87,
+                    "endOffset": 20542
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13519,9 +13512,9 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 20529,
-                    "endColumn": 87,
-                    "endOffset": 20612
+                    "startOffset": 20547,
+                    "endColumn": 131,
+                    "endOffset": 20674
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13531,9 +13524,9 @@
                 "to": {
                     "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 20617,
+                    "startOffset": 20679,
                     "endColumn": 131,
-                    "endOffset": 20744
+                    "endOffset": 20806
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13543,9 +13536,9 @@
                 "to": {
                     "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 20749,
-                    "endColumn": 131,
-                    "endOffset": 20876
+                    "startOffset": 20811,
+                    "endColumn": 107,
+                    "endOffset": 20914
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13555,9 +13548,9 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 20881,
-                    "endColumn": 107,
-                    "endOffset": 20984
+                    "startOffset": 20919,
+                    "endColumn": 131,
+                    "endOffset": 21046
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13567,9 +13560,9 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 20989,
-                    "endColumn": 131,
-                    "endOffset": 21116
+                    "startOffset": 21051,
+                    "endColumn": 107,
+                    "endOffset": 21154
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13579,9 +13572,9 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 21121,
-                    "endColumn": 107,
-                    "endOffset": 21224
+                    "startOffset": 21159,
+                    "endColumn": 159,
+                    "endOffset": 21314
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13591,9 +13584,9 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 21229,
-                    "endColumn": 159,
-                    "endOffset": 21384
+                    "startOffset": 21319,
+                    "endColumn": 55,
+                    "endOffset": 21370
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13603,9 +13596,9 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 21389,
-                    "endColumn": 55,
-                    "endOffset": 21440
+                    "startOffset": 21375,
+                    "endColumn": 73,
+                    "endOffset": 21444
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13615,9 +13608,9 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 21445,
-                    "endColumn": 73,
-                    "endOffset": 21514
+                    "startOffset": 21449,
+                    "endColumn": 79,
+                    "endOffset": 21524
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13627,9 +13620,9 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 21519,
-                    "endColumn": 79,
-                    "endOffset": 21594
+                    "startOffset": 21529,
+                    "endColumn": 52,
+                    "endOffset": 21577
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13639,9 +13632,9 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 21599,
-                    "endColumn": 52,
-                    "endOffset": 21647
+                    "startOffset": 21582,
+                    "endColumn": 54,
+                    "endOffset": 21632
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13651,9 +13644,9 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 21652,
-                    "endColumn": 54,
-                    "endOffset": 21702
+                    "startOffset": 21637,
+                    "endColumn": 63,
+                    "endOffset": 21696
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13663,9 +13656,9 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 21707,
-                    "endColumn": 63,
-                    "endOffset": 21766
+                    "startOffset": 21701,
+                    "endColumn": 84,
+                    "endOffset": 21781
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13675,9 +13668,9 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 21771,
-                    "endColumn": 84,
-                    "endOffset": 21851
+                    "startOffset": 21786,
+                    "endColumn": 58,
+                    "endOffset": 21840
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13687,9 +13680,9 @@
                 "to": {
                     "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 21856,
-                    "endColumn": 58,
-                    "endOffset": 21910
+                    "startOffset": 21845,
+                    "endColumn": 64,
+                    "endOffset": 21905
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13699,9 +13692,9 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 21915,
-                    "endColumn": 64,
-                    "endOffset": 21975
+                    "startOffset": 21910,
+                    "endColumn": 58,
+                    "endOffset": 21964
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13711,9 +13704,9 @@
                 "to": {
                     "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 21980,
-                    "endColumn": 58,
-                    "endOffset": 22034
+                    "startOffset": 21969,
+                    "endColumn": 60,
+                    "endOffset": 22025
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13723,9 +13716,9 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 22039,
-                    "endColumn": 60,
-                    "endOffset": 22095
+                    "startOffset": 22030,
+                    "endColumn": 74,
+                    "endOffset": 22100
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13735,9 +13728,9 @@
                 "to": {
                     "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 22100,
-                    "endColumn": 74,
-                    "endOffset": 22170
+                    "startOffset": 22105,
+                    "endColumn": 70,
+                    "endOffset": 22171
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13747,9 +13740,9 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 22175,
+                    "startOffset": 22176,
                     "endColumn": 70,
-                    "endOffset": 22241
+                    "endOffset": 22242
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13759,9 +13752,9 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 22246,
-                    "endColumn": 70,
-                    "endOffset": 22312
+                    "startOffset": 22247,
+                    "endColumn": 81,
+                    "endOffset": 22324
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13771,9 +13764,9 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 22317,
-                    "endColumn": 81,
-                    "endOffset": 22394
+                    "startOffset": 22329,
+                    "endColumn": 55,
+                    "endOffset": 22380
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13783,9 +13776,9 @@
                 "to": {
                     "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 22399,
-                    "endColumn": 55,
-                    "endOffset": 22450
+                    "startOffset": 22385,
+                    "endColumn": 58,
+                    "endOffset": 22439
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13795,9 +13788,9 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 22455,
-                    "endColumn": 58,
-                    "endOffset": 22509
+                    "startOffset": 22444,
+                    "endColumn": 36,
+                    "endOffset": 22476
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13807,9 +13800,9 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 22514,
-                    "endColumn": 36,
-                    "endOffset": 22546
+                    "startOffset": 22481,
+                    "endColumn": 61,
+                    "endOffset": 22538
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13819,9 +13812,9 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 22551,
-                    "endColumn": 61,
-                    "endOffset": 22608
+                    "startOffset": 22543,
+                    "endColumn": 70,
+                    "endOffset": 22609
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13831,9 +13824,9 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 22613,
+                    "startOffset": 22614,
                     "endColumn": 70,
-                    "endOffset": 22679
+                    "endOffset": 22680
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13843,9 +13836,9 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 22684,
-                    "endColumn": 70,
-                    "endOffset": 22750
+                    "startOffset": 22685,
+                    "endColumn": 64,
+                    "endOffset": 22745
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13855,9 +13848,9 @@
                 "to": {
                     "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 22755,
-                    "endColumn": 64,
-                    "endOffset": 22815
+                    "startOffset": 22750,
+                    "endColumn": 51,
+                    "endOffset": 22797
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13867,9 +13860,9 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 22820,
-                    "endColumn": 51,
-                    "endOffset": 22867
+                    "startOffset": 22802,
+                    "endColumn": 47,
+                    "endOffset": 22845
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13879,9 +13872,9 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 22872,
-                    "endColumn": 47,
-                    "endOffset": 22915
+                    "startOffset": 22850,
+                    "endColumn": 44,
+                    "endOffset": 22890
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13891,9 +13884,9 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 22920,
-                    "endColumn": 44,
-                    "endOffset": 22960
+                    "startOffset": 22895,
+                    "endColumn": 98,
+                    "endOffset": 22989
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13903,9 +13896,9 @@
                 "to": {
                     "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 22965,
-                    "endColumn": 98,
-                    "endOffset": 23059
+                    "startOffset": 22994,
+                    "endColumn": 96,
+                    "endOffset": 23086
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13915,9 +13908,9 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 23064,
+                    "startOffset": 23091,
                     "endColumn": 96,
-                    "endOffset": 23156
+                    "endOffset": 23183
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13927,9 +13920,9 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 23161,
-                    "endColumn": 96,
-                    "endOffset": 23253
+                    "startOffset": 23188,
+                    "endColumn": 100,
+                    "endOffset": 23284
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13939,9 +13932,9 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 23258,
-                    "endColumn": 100,
-                    "endOffset": 23354
+                    "startOffset": 23289,
+                    "endColumn": 61,
+                    "endOffset": 23346
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13951,9 +13944,9 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 23359,
-                    "endColumn": 61,
-                    "endOffset": 23416
+                    "startOffset": 23351,
+                    "endColumn": 67,
+                    "endOffset": 23414
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13963,9 +13956,9 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 23421,
-                    "endColumn": 67,
-                    "endOffset": 23484
+                    "startOffset": 23419,
+                    "endColumn": 56,
+                    "endOffset": 23471
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13975,9 +13968,9 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 23489,
-                    "endColumn": 56,
-                    "endOffset": 23541
+                    "startOffset": 23476,
+                    "endColumn": 55,
+                    "endOffset": 23527
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13987,9 +13980,9 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 23546,
-                    "endColumn": 55,
-                    "endOffset": 23597
+                    "startOffset": 23532,
+                    "endColumn": 71,
+                    "endOffset": 23599
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -13999,9 +13992,9 @@
                 "to": {
                     "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 23602,
-                    "endColumn": 71,
-                    "endOffset": 23669
+                    "startOffset": 23604,
+                    "endColumn": 87,
+                    "endOffset": 23687
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14011,9 +14004,9 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 23674,
-                    "endColumn": 87,
-                    "endOffset": 23757
+                    "startOffset": 23692,
+                    "endColumn": 73,
+                    "endOffset": 23761
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14023,9 +14016,9 @@
                 "to": {
                     "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 23762,
-                    "endColumn": 73,
-                    "endOffset": 23831
+                    "startOffset": 23766,
+                    "endColumn": 83,
+                    "endOffset": 23845
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14035,9 +14028,9 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 23836,
-                    "endColumn": 83,
-                    "endOffset": 23915
+                    "startOffset": 23850,
+                    "endColumn": 89,
+                    "endOffset": 23935
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14047,9 +14040,9 @@
                 "to": {
                     "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 23920,
-                    "endColumn": 89,
-                    "endOffset": 24005
+                    "startOffset": 23940,
+                    "endColumn": 67,
+                    "endOffset": 24003
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14059,9 +14052,9 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 24010,
-                    "endColumn": 67,
-                    "endOffset": 24073
+                    "startOffset": 24008,
+                    "endColumn": 75,
+                    "endOffset": 24079
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14071,9 +14064,9 @@
                 "to": {
                     "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 24078,
-                    "endColumn": 75,
-                    "endOffset": 24149
+                    "startOffset": 24084,
+                    "endColumn": 49,
+                    "endOffset": 24129
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14083,9 +14076,9 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 24154,
-                    "endColumn": 49,
-                    "endOffset": 24199
+                    "startOffset": 24134,
+                    "endColumn": 58,
+                    "endOffset": 24188
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14095,9 +14088,9 @@
                 "to": {
                     "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 24204,
-                    "endColumn": 58,
-                    "endOffset": 24258
+                    "startOffset": 24193,
+                    "endColumn": 91,
+                    "endOffset": 24280
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14107,9 +14100,9 @@
                 "to": {
                     "startLine": 376,
                     "startColumn": 4,
-                    "startOffset": 24263,
-                    "endColumn": 91,
-                    "endOffset": 24350
+                    "startOffset": 24285,
+                    "endColumn": 46,
+                    "endOffset": 24327
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14119,9 +14112,9 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 24355,
-                    "endColumn": 46,
-                    "endOffset": 24397
+                    "startOffset": 24332,
+                    "endColumn": 101,
+                    "endOffset": 24429
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14131,9 +14124,9 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 24402,
-                    "endColumn": 101,
-                    "endOffset": 24499
+                    "startOffset": 24434,
+                    "endColumn": 57,
+                    "endOffset": 24487
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14143,9 +14136,9 @@
                 "to": {
                     "startLine": 379,
                     "startColumn": 4,
-                    "startOffset": 24504,
-                    "endColumn": 57,
-                    "endOffset": 24557
+                    "startOffset": 24492,
+                    "endColumn": 38,
+                    "endOffset": 24526
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14155,9 +14148,9 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 24562,
-                    "endColumn": 38,
-                    "endOffset": 24596
+                    "startOffset": 24531,
+                    "endColumn": 40,
+                    "endOffset": 24567
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14167,9 +14160,9 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 24601,
-                    "endColumn": 40,
-                    "endOffset": 24637
+                    "startOffset": 24572,
+                    "endColumn": 43,
+                    "endOffset": 24611
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14179,9 +14172,9 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 24642,
-                    "endColumn": 43,
-                    "endOffset": 24681
+                    "startOffset": 24616,
+                    "endColumn": 39,
+                    "endOffset": 24651
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14191,9 +14184,9 @@
                 "to": {
                     "startLine": 383,
                     "startColumn": 4,
-                    "startOffset": 24686,
-                    "endColumn": 39,
-                    "endOffset": 24721
+                    "startOffset": 24656,
+                    "endColumn": 73,
+                    "endOffset": 24725
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14203,9 +14196,9 @@
                 "to": {
                     "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 24726,
-                    "endColumn": 73,
-                    "endOffset": 24795
+                    "startOffset": 24730,
+                    "endColumn": 61,
+                    "endOffset": 24787
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14215,9 +14208,9 @@
                 "to": {
                     "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 24800,
-                    "endColumn": 61,
-                    "endOffset": 24857
+                    "startOffset": 24792,
+                    "endColumn": 47,
+                    "endOffset": 24835
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14227,9 +14220,9 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 24862,
-                    "endColumn": 47,
-                    "endOffset": 24905
+                    "startOffset": 24840,
+                    "endColumn": 59,
+                    "endOffset": 24895
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14239,9 +14232,9 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 24910,
-                    "endColumn": 59,
-                    "endOffset": 24965
+                    "startOffset": 24900,
+                    "endColumn": 63,
+                    "endOffset": 24959
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14251,9 +14244,9 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 24970,
-                    "endColumn": 63,
-                    "endOffset": 25029
+                    "startOffset": 24964,
+                    "endColumn": 67,
+                    "endOffset": 25027
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14263,9 +14256,9 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 25034,
-                    "endColumn": 67,
-                    "endOffset": 25097
+                    "startOffset": 25032,
+                    "endColumn": 46,
+                    "endOffset": 25074
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14275,9 +14268,9 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 25102,
-                    "endColumn": 46,
-                    "endOffset": 25144
+                    "startOffset": 25079,
+                    "endColumn": 57,
+                    "endOffset": 25132
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14287,9 +14280,9 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 25149,
-                    "endColumn": 57,
-                    "endOffset": 25202
+                    "startOffset": 25137,
+                    "endColumn": 59,
+                    "endOffset": 25192
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14299,9 +14292,9 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 25207,
-                    "endColumn": 59,
-                    "endOffset": 25262
+                    "startOffset": 25197,
+                    "endColumn": 65,
+                    "endOffset": 25258
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14311,9 +14304,9 @@
                 "to": {
                     "startLine": 393,
                     "startColumn": 4,
-                    "startOffset": 25267,
-                    "endColumn": 65,
-                    "endOffset": 25328
+                    "startOffset": 25263,
+                    "endColumn": 43,
+                    "endOffset": 25302
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14323,9 +14316,9 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 25333,
-                    "endColumn": 43,
-                    "endOffset": 25372
+                    "startOffset": 25307,
+                    "endColumn": 61,
+                    "endOffset": 25364
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14335,9 +14328,9 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 25377,
-                    "endColumn": 61,
-                    "endOffset": 25434
+                    "startOffset": 25369,
+                    "endColumn": 39,
+                    "endOffset": 25404
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14347,9 +14340,9 @@
                 "to": {
                     "startLine": 396,
                     "startColumn": 4,
-                    "startOffset": 25439,
-                    "endColumn": 39,
-                    "endOffset": 25474
+                    "startOffset": 25409,
+                    "endColumn": 59,
+                    "endOffset": 25464
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14359,9 +14352,9 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 25479,
-                    "endColumn": 59,
-                    "endOffset": 25534
+                    "startOffset": 25469,
+                    "endColumn": 67,
+                    "endOffset": 25532
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14371,9 +14364,9 @@
                 "to": {
                     "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 25539,
-                    "endColumn": 67,
-                    "endOffset": 25602
+                    "startOffset": 25537,
+                    "endColumn": 50,
+                    "endOffset": 25583
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14383,9 +14376,9 @@
                 "to": {
                     "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 25607,
-                    "endColumn": 50,
-                    "endOffset": 25653
+                    "startOffset": 25588,
+                    "endColumn": 55,
+                    "endOffset": 25639
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14395,9 +14388,9 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 25658,
-                    "endColumn": 55,
-                    "endOffset": 25709
+                    "startOffset": 25644,
+                    "endColumn": 79,
+                    "endOffset": 25719
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14407,9 +14400,9 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 25714,
+                    "startOffset": 25724,
                     "endColumn": 79,
-                    "endOffset": 25789
+                    "endOffset": 25799
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14419,9 +14412,9 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 25794,
-                    "endColumn": 79,
-                    "endOffset": 25869
+                    "startOffset": 25804,
+                    "endColumn": 55,
+                    "endOffset": 25855
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14431,9 +14424,9 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 25874,
-                    "endColumn": 55,
-                    "endOffset": 25925
+                    "startOffset": 25860,
+                    "endColumn": 79,
+                    "endOffset": 25935
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14443,9 +14436,9 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 25930,
-                    "endColumn": 79,
-                    "endOffset": 26005
+                    "startOffset": 25940,
+                    "endColumn": 35,
+                    "endOffset": 25971
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14455,9 +14448,9 @@
                 "to": {
                     "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 26010,
-                    "endColumn": 35,
-                    "endOffset": 26041
+                    "startOffset": 25976,
+                    "endColumn": 64,
+                    "endOffset": 26036
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14467,9 +14460,9 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 26046,
-                    "endColumn": 64,
-                    "endOffset": 26106
+                    "startOffset": 26041,
+                    "endColumn": 63,
+                    "endOffset": 26100
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14479,9 +14472,9 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 26111,
-                    "endColumn": 63,
-                    "endOffset": 26170
+                    "startOffset": 26105,
+                    "endColumn": 61,
+                    "endOffset": 26162
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14491,9 +14484,9 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 26175,
-                    "endColumn": 61,
-                    "endOffset": 26232
+                    "startOffset": 26167,
+                    "endColumn": 78,
+                    "endOffset": 26241
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14503,9 +14496,9 @@
                 "to": {
                     "startLine": 409,
                     "startColumn": 4,
-                    "startOffset": 26237,
+                    "startOffset": 26246,
                     "endColumn": 78,
-                    "endOffset": 26311
+                    "endOffset": 26320
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14515,9 +14508,9 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 26316,
-                    "endColumn": 78,
-                    "endOffset": 26390
+                    "startOffset": 26325,
+                    "endColumn": 39,
+                    "endOffset": 26360
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14527,9 +14520,9 @@
                 "to": {
                     "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 26395,
-                    "endColumn": 39,
-                    "endOffset": 26430
+                    "startOffset": 26365,
+                    "endColumn": 43,
+                    "endOffset": 26404
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14539,9 +14532,9 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 26435,
-                    "endColumn": 43,
-                    "endOffset": 26474
+                    "startOffset": 26409,
+                    "endColumn": 72,
+                    "endOffset": 26477
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14551,9 +14544,9 @@
                 "to": {
                     "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 26479,
-                    "endColumn": 72,
-                    "endOffset": 26547
+                    "startOffset": 26482,
+                    "endColumn": 35,
+                    "endOffset": 26513
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14563,9 +14556,9 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 26552,
-                    "endColumn": 35,
-                    "endOffset": 26583
+                    "startOffset": 26518,
+                    "endColumn": 55,
+                    "endOffset": 26569
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14575,9 +14568,9 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 26588,
-                    "endColumn": 55,
-                    "endOffset": 26639
+                    "startOffset": 26574,
+                    "endColumn": 48,
+                    "endOffset": 26618
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14587,9 +14580,9 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 26644,
-                    "endColumn": 48,
-                    "endOffset": 26688
+                    "startOffset": 26623,
+                    "endColumn": 59,
+                    "endOffset": 26678
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14599,9 +14592,9 @@
                 "to": {
                     "startLine": 417,
                     "startColumn": 4,
-                    "startOffset": 26693,
+                    "startOffset": 26683,
                     "endColumn": 59,
-                    "endOffset": 26748
+                    "endOffset": 26738
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14611,9 +14604,9 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 26753,
+                    "startOffset": 26743,
                     "endColumn": 59,
-                    "endOffset": 26808
+                    "endOffset": 26798
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14623,9 +14616,9 @@
                 "to": {
                     "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 26813,
-                    "endColumn": 59,
-                    "endOffset": 26868
+                    "startOffset": 26803,
+                    "endColumn": 65,
+                    "endOffset": 26864
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14635,9 +14628,9 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 26873,
-                    "endColumn": 65,
-                    "endOffset": 26934
+                    "startOffset": 26869,
+                    "endColumn": 77,
+                    "endOffset": 26942
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14647,9 +14640,9 @@
                 "to": {
                     "startLine": 421,
                     "startColumn": 4,
-                    "startOffset": 26939,
-                    "endColumn": 77,
-                    "endOffset": 27012
+                    "startOffset": 26947,
+                    "endColumn": 59,
+                    "endOffset": 27002
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14659,9 +14652,9 @@
                 "to": {
                     "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 27017,
+                    "startOffset": 27007,
                     "endColumn": 59,
-                    "endOffset": 27072
+                    "endOffset": 27062
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14671,9 +14664,9 @@
                 "to": {
                     "startLine": 423,
                     "startColumn": 4,
-                    "startOffset": 27077,
-                    "endColumn": 59,
-                    "endOffset": 27132
+                    "startOffset": 27067,
+                    "endColumn": 65,
+                    "endOffset": 27128
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14683,9 +14676,9 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 27137,
-                    "endColumn": 65,
-                    "endOffset": 27198
+                    "startOffset": 27133,
+                    "endColumn": 59,
+                    "endOffset": 27188
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14695,9 +14688,9 @@
                 "to": {
                     "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 27203,
+                    "startOffset": 27193,
                     "endColumn": 59,
-                    "endOffset": 27258
+                    "endOffset": 27248
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14707,9 +14700,9 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 27263,
-                    "endColumn": 59,
-                    "endOffset": 27318
+                    "startOffset": 27253,
+                    "endColumn": 65,
+                    "endOffset": 27314
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14719,9 +14712,9 @@
                 "to": {
                     "startLine": 427,
                     "startColumn": 4,
-                    "startOffset": 27323,
-                    "endColumn": 65,
-                    "endOffset": 27384
+                    "startOffset": 27319,
+                    "endColumn": 58,
+                    "endOffset": 27373
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14731,9 +14724,9 @@
                 "to": {
                     "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 27389,
-                    "endColumn": 58,
-                    "endOffset": 27443
+                    "startOffset": 27378,
+                    "endColumn": 49,
+                    "endOffset": 27423
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14743,9 +14736,9 @@
                 "to": {
                     "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 27448,
-                    "endColumn": 49,
-                    "endOffset": 27493
+                    "startOffset": 27428,
+                    "endColumn": 57,
+                    "endOffset": 27481
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14755,9 +14748,9 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 27498,
-                    "endColumn": 57,
-                    "endOffset": 27551
+                    "startOffset": 27486,
+                    "endColumn": 64,
+                    "endOffset": 27546
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14767,9 +14760,9 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 27556,
-                    "endColumn": 64,
-                    "endOffset": 27616
+                    "startOffset": 27551,
+                    "endColumn": 79,
+                    "endOffset": 27626
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14779,9 +14772,9 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 27621,
-                    "endColumn": 79,
-                    "endOffset": 27696
+                    "startOffset": 27631,
+                    "endColumn": 57,
+                    "endOffset": 27684
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14791,9 +14784,9 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 27701,
-                    "endColumn": 57,
-                    "endOffset": 27754
+                    "startOffset": 27689,
+                    "endColumn": 53,
+                    "endOffset": 27738
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14803,9 +14796,9 @@
                 "to": {
                     "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 27759,
-                    "endColumn": 53,
-                    "endOffset": 27808
+                    "startOffset": 27743,
+                    "endColumn": 66,
+                    "endOffset": 27805
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14815,9 +14808,9 @@
                 "to": {
                     "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 27813,
-                    "endColumn": 66,
-                    "endOffset": 27875
+                    "startOffset": 27810,
+                    "endColumn": 65,
+                    "endOffset": 27871
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14827,9 +14820,9 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 27880,
-                    "endColumn": 65,
-                    "endOffset": 27941
+                    "startOffset": 27876,
+                    "endColumn": 75,
+                    "endOffset": 27947
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14839,9 +14832,9 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 27946,
-                    "endColumn": 75,
-                    "endOffset": 28017
+                    "startOffset": 27952,
+                    "endColumn": 94,
+                    "endOffset": 28042
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14851,9 +14844,9 @@
                 "to": {
                     "startLine": 438,
                     "startColumn": 4,
-                    "startOffset": 28022,
-                    "endColumn": 94,
-                    "endOffset": 28112
+                    "startOffset": 28047,
+                    "endColumn": 57,
+                    "endOffset": 28100
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14863,9 +14856,9 @@
                 "to": {
                     "startLine": 439,
                     "startColumn": 4,
-                    "startOffset": 28117,
-                    "endColumn": 57,
-                    "endOffset": 28170
+                    "startOffset": 28105,
+                    "endColumn": 65,
+                    "endOffset": 28166
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14875,9 +14868,9 @@
                 "to": {
                     "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 28175,
-                    "endColumn": 65,
-                    "endOffset": 28236
+                    "startOffset": 28171,
+                    "endColumn": 73,
+                    "endOffset": 28240
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14887,9 +14880,9 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 28241,
+                    "startOffset": 28245,
                     "endColumn": 73,
-                    "endOffset": 28310
+                    "endOffset": 28314
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14899,9 +14892,9 @@
                 "to": {
                     "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 28315,
-                    "endColumn": 73,
-                    "endOffset": 28384
+                    "startOffset": 28319,
+                    "endColumn": 62,
+                    "endOffset": 28377
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14911,9 +14904,9 @@
                 "to": {
                     "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 28389,
-                    "endColumn": 62,
-                    "endOffset": 28447
+                    "startOffset": 28382,
+                    "endColumn": 85,
+                    "endOffset": 28463
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14923,9 +14916,9 @@
                 "to": {
                     "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 28452,
-                    "endColumn": 85,
-                    "endOffset": 28533
+                    "startOffset": 28468,
+                    "endColumn": 63,
+                    "endOffset": 28527
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14935,9 +14928,9 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 28538,
-                    "endColumn": 63,
-                    "endOffset": 28597
+                    "startOffset": 28532,
+                    "endColumn": 67,
+                    "endOffset": 28595
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14947,9 +14940,9 @@
                 "to": {
                     "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 28602,
-                    "endColumn": 67,
-                    "endOffset": 28665
+                    "startOffset": 28600,
+                    "endColumn": 65,
+                    "endOffset": 28661
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14959,9 +14952,9 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 28670,
-                    "endColumn": 65,
-                    "endOffset": 28731
+                    "startOffset": 28666,
+                    "endColumn": 61,
+                    "endOffset": 28723
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14971,9 +14964,9 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 28736,
-                    "endColumn": 61,
-                    "endOffset": 28793
+                    "startOffset": 28728,
+                    "endColumn": 54,
+                    "endOffset": 28778
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14983,9 +14976,9 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 28798,
-                    "endColumn": 54,
-                    "endOffset": 28848
+                    "startOffset": 28783,
+                    "endColumn": 78,
+                    "endOffset": 28857
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -14995,9 +14988,9 @@
                 "to": {
                     "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 28853,
-                    "endColumn": 78,
-                    "endOffset": 28927
+                    "startOffset": 28862,
+                    "endColumn": 37,
+                    "endOffset": 28895
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15007,9 +15000,9 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 28932,
-                    "endColumn": 37,
-                    "endOffset": 28965
+                    "startOffset": 28900,
+                    "endColumn": 43,
+                    "endOffset": 28939
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15019,9 +15012,9 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 28970,
-                    "endColumn": 43,
-                    "endOffset": 29009
+                    "startOffset": 28944,
+                    "endColumn": 55,
+                    "endOffset": 28995
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15031,9 +15024,9 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 29014,
-                    "endColumn": 55,
-                    "endOffset": 29065
+                    "startOffset": 29000,
+                    "endColumn": 49,
+                    "endOffset": 29045
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15043,9 +15036,9 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 29070,
-                    "endColumn": 49,
-                    "endOffset": 29115
+                    "startOffset": 29050,
+                    "endColumn": 60,
+                    "endOffset": 29106
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15055,9 +15048,9 @@
                 "to": {
                     "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 29120,
-                    "endColumn": 60,
-                    "endOffset": 29176
+                    "startOffset": 29111,
+                    "endColumn": 59,
+                    "endOffset": 29166
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15067,9 +15060,9 @@
                 "to": {
                     "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 29181,
-                    "endColumn": 59,
-                    "endOffset": 29236
+                    "startOffset": 29171,
+                    "endColumn": 74,
+                    "endOffset": 29241
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15079,9 +15072,9 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 29241,
-                    "endColumn": 74,
-                    "endOffset": 29311
+                    "startOffset": 29246,
+                    "endColumn": 49,
+                    "endOffset": 29291
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15091,9 +15084,9 @@
                 "to": {
                     "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 29316,
-                    "endColumn": 49,
-                    "endOffset": 29361
+                    "startOffset": 29296,
+                    "endColumn": 59,
+                    "endOffset": 29351
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15103,9 +15096,9 @@
                 "to": {
                     "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 29366,
-                    "endColumn": 59,
-                    "endOffset": 29421
+                    "startOffset": 29356,
+                    "endColumn": 65,
+                    "endOffset": 29417
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15115,9 +15108,9 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 29426,
-                    "endColumn": 65,
-                    "endOffset": 29487
+                    "startOffset": 29422,
+                    "endColumn": 51,
+                    "endOffset": 29469
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15127,9 +15120,9 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 29492,
-                    "endColumn": 51,
-                    "endOffset": 29539
+                    "startOffset": 29474,
+                    "endColumn": 61,
+                    "endOffset": 29531
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15139,9 +15132,9 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 29544,
-                    "endColumn": 61,
-                    "endOffset": 29601
+                    "startOffset": 29536,
+                    "endColumn": 67,
+                    "endOffset": 29599
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15151,9 +15144,9 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 29606,
-                    "endColumn": 67,
-                    "endOffset": 29669
+                    "startOffset": 29604,
+                    "endColumn": 59,
+                    "endOffset": 29659
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15163,9 +15156,9 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 29674,
-                    "endColumn": 59,
-                    "endOffset": 29729
+                    "startOffset": 29664,
+                    "endColumn": 77,
+                    "endOffset": 29737
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15175,9 +15168,9 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 29734,
-                    "endColumn": 77,
-                    "endOffset": 29807
+                    "startOffset": 29742,
+                    "endColumn": 83,
+                    "endOffset": 29821
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15187,9 +15180,9 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 29812,
-                    "endColumn": 83,
-                    "endOffset": 29891
+                    "startOffset": 29826,
+                    "endColumn": 129,
+                    "endOffset": 29951
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15199,9 +15192,9 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 29896,
-                    "endColumn": 129,
-                    "endOffset": 30021
+                    "startOffset": 29956,
+                    "endColumn": 117,
+                    "endOffset": 30069
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15211,9 +15204,9 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 30026,
-                    "endColumn": 117,
-                    "endOffset": 30139
+                    "startOffset": 30074,
+                    "endColumn": 91,
+                    "endOffset": 30161
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15223,9 +15216,9 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 30144,
-                    "endColumn": 91,
-                    "endOffset": 30231
+                    "startOffset": 30166,
+                    "endColumn": 135,
+                    "endOffset": 30297
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15235,9 +15228,9 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 30236,
+                    "startOffset": 30302,
                     "endColumn": 135,
-                    "endOffset": 30367
+                    "endOffset": 30433
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15247,9 +15240,9 @@
                 "to": {
                     "startLine": 471,
                     "startColumn": 4,
-                    "startOffset": 30372,
-                    "endColumn": 135,
-                    "endOffset": 30503
+                    "startOffset": 30438,
+                    "endColumn": 111,
+                    "endOffset": 30545
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15259,9 +15252,9 @@
                 "to": {
                     "startLine": 472,
                     "startColumn": 4,
-                    "startOffset": 30508,
-                    "endColumn": 111,
-                    "endOffset": 30615
+                    "startOffset": 30550,
+                    "endColumn": 135,
+                    "endOffset": 30681
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15271,9 +15264,9 @@
                 "to": {
                     "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 30620,
-                    "endColumn": 135,
-                    "endOffset": 30751
+                    "startOffset": 30686,
+                    "endColumn": 111,
+                    "endOffset": 30793
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15283,9 +15276,9 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 30756,
-                    "endColumn": 111,
-                    "endOffset": 30863
+                    "startOffset": 30798,
+                    "endColumn": 163,
+                    "endOffset": 30957
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15295,9 +15288,9 @@
                 "to": {
                     "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 30868,
-                    "endColumn": 163,
-                    "endOffset": 31027
+                    "startOffset": 30962,
+                    "endColumn": 59,
+                    "endOffset": 31017
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15307,9 +15300,9 @@
                 "to": {
                     "startLine": 476,
                     "startColumn": 4,
-                    "startOffset": 31032,
-                    "endColumn": 59,
-                    "endOffset": 31087
+                    "startOffset": 31022,
+                    "endColumn": 77,
+                    "endOffset": 31095
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15319,9 +15312,9 @@
                 "to": {
                     "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 31092,
-                    "endColumn": 77,
-                    "endOffset": 31165
+                    "startOffset": 31100,
+                    "endColumn": 83,
+                    "endOffset": 31179
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15331,9 +15324,9 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 31170,
-                    "endColumn": 83,
-                    "endOffset": 31249
+                    "startOffset": 31184,
+                    "endColumn": 79,
+                    "endOffset": 31259
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15343,9 +15336,9 @@
                 "to": {
                     "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 31254,
-                    "endColumn": 79,
-                    "endOffset": 31329
+                    "startOffset": 31264,
+                    "endColumn": 38,
+                    "endOffset": 31298
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15355,9 +15348,9 @@
                 "to": {
                     "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 31334,
-                    "endColumn": 38,
-                    "endOffset": 31368
+                    "startOffset": 31303,
+                    "endColumn": 37,
+                    "endOffset": 31336
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15367,9 +15360,9 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 31373,
-                    "endColumn": 37,
-                    "endOffset": 31406
+                    "startOffset": 31341,
+                    "endColumn": 55,
+                    "endOffset": 31392
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15379,8 +15372,8 @@
                 "to": {
                     "startLine": 482,
                     "startColumn": 4,
-                    "startOffset": 31411,
-                    "endColumn": 55,
+                    "startOffset": 31397,
+                    "endColumn": 69,
                     "endOffset": 31462
                 },
                 "from": {
@@ -15392,8 +15385,8 @@
                     "startLine": 483,
                     "startColumn": 4,
                     "startOffset": 31467,
-                    "endColumn": 69,
-                    "endOffset": 31532
+                    "endColumn": 85,
+                    "endOffset": 31548
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15403,9 +15396,9 @@
                 "to": {
                     "startLine": 484,
                     "startColumn": 4,
-                    "startOffset": 31537,
-                    "endColumn": 85,
-                    "endOffset": 31618
+                    "startOffset": 31553,
+                    "endColumn": 61,
+                    "endOffset": 31610
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15415,9 +15408,9 @@
                 "to": {
                     "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 31623,
-                    "endColumn": 61,
-                    "endOffset": 31680
+                    "startOffset": 31615,
+                    "endColumn": 63,
+                    "endOffset": 31674
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15427,9 +15420,9 @@
                 "to": {
                     "startLine": 486,
                     "startColumn": 4,
-                    "startOffset": 31685,
-                    "endColumn": 63,
-                    "endOffset": 31744
+                    "startOffset": 31679,
+                    "endColumn": 66,
+                    "endOffset": 31741
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15439,9 +15432,9 @@
                 "to": {
                     "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 31749,
-                    "endColumn": 66,
-                    "endOffset": 31811
+                    "startOffset": 31746,
+                    "endColumn": 60,
+                    "endOffset": 31802
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15451,9 +15444,9 @@
                 "to": {
                     "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 31816,
-                    "endColumn": 60,
-                    "endOffset": 31872
+                    "startOffset": 31807,
+                    "endColumn": 64,
+                    "endOffset": 31867
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15463,9 +15456,9 @@
                 "to": {
                     "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 31877,
-                    "endColumn": 64,
-                    "endOffset": 31937
+                    "startOffset": 31872,
+                    "endColumn": 107,
+                    "endOffset": 31975
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15475,8 +15468,8 @@
                 "to": {
                     "startLine": 490,
                     "startColumn": 4,
-                    "startOffset": 31942,
-                    "endColumn": 107,
+                    "startOffset": 31980,
+                    "endColumn": 69,
                     "endOffset": 32045
                 },
                 "from": {
@@ -15488,8 +15481,8 @@
                     "startLine": 491,
                     "startColumn": 4,
                     "startOffset": 32050,
-                    "endColumn": 69,
-                    "endOffset": 32115
+                    "endColumn": 48,
+                    "endOffset": 32094
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15499,9 +15492,9 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 32120,
-                    "endColumn": 48,
-                    "endOffset": 32164
+                    "startOffset": 32099,
+                    "endColumn": 40,
+                    "endOffset": 32135
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15511,9 +15504,9 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 32169,
-                    "endColumn": 40,
-                    "endOffset": 32205
+                    "startOffset": 32140,
+                    "endColumn": 48,
+                    "endOffset": 32184
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15523,9 +15516,9 @@
                 "to": {
                     "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 32210,
-                    "endColumn": 48,
-                    "endOffset": 32254
+                    "startOffset": 32189,
+                    "endColumn": 62,
+                    "endOffset": 32247
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15535,9 +15528,9 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 32259,
-                    "endColumn": 62,
-                    "endOffset": 32317
+                    "startOffset": 32252,
+                    "endColumn": 58,
+                    "endOffset": 32306
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15547,9 +15540,9 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 32322,
-                    "endColumn": 58,
-                    "endOffset": 32376
+                    "startOffset": 32311,
+                    "endColumn": 65,
+                    "endOffset": 32372
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15559,9 +15552,9 @@
                 "to": {
                     "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 32381,
-                    "endColumn": 65,
-                    "endOffset": 32442
+                    "startOffset": 32377,
+                    "endColumn": 83,
+                    "endOffset": 32456
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15571,9 +15564,9 @@
                 "to": {
                     "startLine": 498,
                     "startColumn": 4,
-                    "startOffset": 32447,
-                    "endColumn": 83,
-                    "endOffset": 32526
+                    "startOffset": 32461,
+                    "endColumn": 45,
+                    "endOffset": 32502
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15583,9 +15576,9 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 32531,
-                    "endColumn": 45,
-                    "endOffset": 32572
+                    "startOffset": 32507,
+                    "endColumn": 43,
+                    "endOffset": 32546
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15595,9 +15588,9 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 32577,
-                    "endColumn": 43,
-                    "endOffset": 32616
+                    "startOffset": 32551,
+                    "endColumn": 37,
+                    "endOffset": 32584
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15607,9 +15600,9 @@
                 "to": {
                     "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 32621,
-                    "endColumn": 37,
-                    "endOffset": 32654
+                    "startOffset": 32589,
+                    "endColumn": 53,
+                    "endOffset": 32638
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15619,9 +15612,9 @@
                 "to": {
                     "startLine": 502,
                     "startColumn": 4,
-                    "startOffset": 32659,
-                    "endColumn": 53,
-                    "endOffset": 32708
+                    "startOffset": 32643,
+                    "endColumn": 67,
+                    "endOffset": 32706
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15631,9 +15624,9 @@
                 "to": {
                     "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 32713,
-                    "endColumn": 67,
-                    "endOffset": 32776
+                    "startOffset": 32711,
+                    "endColumn": 62,
+                    "endOffset": 32769
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
@@ -15643,22 +15636,10 @@
                 "to": {
                     "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 32781,
-                    "endColumn": 62,
-                    "endOffset": 32839
-                },
-                "from": {
-                    "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 505,
-                    "startColumn": 4,
-                    "startOffset": 32844,
-                    "endLine": 507,
+                    "startOffset": 32774,
+                    "endLine": 506,
                     "endColumn": 12,
-                    "endOffset": 32922
+                    "endOffset": 32852
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/styles.xml"
@@ -15666,12 +15647,12 @@
             },
             {
                 "to": {
-                    "startLine": 508,
+                    "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 32927,
-                    "endLine": 510,
+                    "startOffset": 32857,
+                    "endLine": 509,
                     "endColumn": 12,
-                    "endOffset": 32994
+                    "endOffset": 32924
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/styles.xml"
@@ -15679,12 +15660,12 @@
             },
             {
                 "to": {
-                    "startLine": 511,
+                    "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 32999,
-                    "endLine": 524,
+                    "startOffset": 32929,
+                    "endLine": 523,
                     "endColumn": 12,
-                    "endOffset": 33632
+                    "endOffset": 33562
                 },
                 "from": {
                     "file": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/values/styles.xml"

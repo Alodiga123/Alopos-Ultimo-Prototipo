@@ -10,10 +10,10 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:text="@string/Id" />
+        android:text="@string/amount" />
 
     <EditText
-        android:id="@+id/Cid"
+        android:id="@+id/amountEditText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
@@ -30,21 +30,9 @@
         android:layout_height="wrap_content"
 
 
-        android:layout_below="@+id/Cid"
+        android:layout_below="@+id/amountEditText"
         android:layout_marginTop="11dp"
-        android:text="@string/email"/>
-
-    <EditText
-        android:id="@+id/emailEditText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/textView4"
-        android:layout_marginTop="21dp"
-        android:ems="10"
-        android:inputType="textEmailAddress"
-        />
+        android:text="@string/select_account"/>
 
     <Button
         android:id="@+id/confirmButton"
@@ -52,7 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
         android:text="@string/confirm"
-        android:layout_below="@+id/emailEditText"
+        android:layout_below="@+id/textView4"
         android:layout_alignLeft="@+id/textView4"
         android:layout_alignStart="@+id/textView4" />
 
@@ -63,6 +51,26 @@
         android:text="@string/cancel"
         android:layout_alignBaseline="@+id/confirmButton"
         android:layout_alignBottom="@+id/confirmButton"
-        android:layout_alignRight="@+id/emailEditText"
-        android:layout_alignEnd="@+id/emailEditText" />
+        android:layout_alignRight="@+id/ahorro"
+        android:layout_alignEnd="@+id/ahorro" />
+
+    <RadioButton
+        android:id="@+id/corriente"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/cancelButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="@string/Checking"
+        android:textColor="@android:color/black" />
+
+    <RadioButton
+        android:id="@+id/ahorro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/corriente"
+        android:layout_toEndOf="@+id/corriente"
+        android:layout_toRightOf="@+id/corriente"
+        android:text="@string/Saving"
+        android:textColor="@android:color/black" />
 </RelativeLayout>
