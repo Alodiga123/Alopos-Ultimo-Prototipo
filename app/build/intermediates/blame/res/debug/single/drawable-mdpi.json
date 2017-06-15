@@ -108,6 +108,10 @@
         "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/drawable-mdpi/opciones.png"
     },
     {
+        "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/logout.png",
+        "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/drawable-mdpi/logout.png"
+    },
+    {
         "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/corresponsalia.png",
         "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/drawable-mdpi/corresponsalia.png"
     },

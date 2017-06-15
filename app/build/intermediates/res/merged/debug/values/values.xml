@@ -92,6 +92,7 @@
     <string name="check_card">Check Card</string>
     <string name="checksum">Checksum:</string>
     <string name="clear_log">Clear Log</string>
+    <string name="closure">Closure</string>
     <string name="comm_error">Communication Error.</string>
     <string name="comm_link_uninitialized">Comm link uninitialized</string>
     <string name="command_not_available">Command not available</string>
@@ -106,6 +107,7 @@
     <string name="control_led_success">Control LED success</string>
     <string name="coprocessor_bootloader_version">Coprocessor Bootloader Version: </string>
     <string name="coprocessor_version">Coprocessor Version: </string>
+    <string name="corresponsive">Corresponsive</string>
     <string name="crc_error">CRC Error.</string>
     <string name="csn">CSN: </string>
     <string name="currency_with_colon">Currency:</string>
@@ -226,6 +228,7 @@
     <string name="length_incorrect">Length incorrect</string>
     <string name="load_log">Load Log:\n</string>
     <string name="location">Location:</string>
+    <string name="logout">Logout</string>
     <string name="mac">MAC:</string>
     <string name="mac_ksn">MAC KSN: </string>
     <string name="mag_head_fail">Magnetic head fail</string>

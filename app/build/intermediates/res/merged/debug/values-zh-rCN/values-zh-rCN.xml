@@ -90,6 +90,7 @@
     <string name="check_card">开始</string>
     <string name="checksum">Checksum:</string>
     <string name="clear_log">清除日志</string>
+    <string name="closure">关闭</string>
     <string name="comm_error">通讯错误。</string>
     <string name="comm_link_uninitialized">通讯频道未建立</string>
     <string name="command_not_available">命令不可用</string>
@@ -104,6 +105,7 @@
     <string name="control_led_success">控制LED成功</string>
     <string name="coprocessor_bootloader_version">協處理器引導程序版本: </string>
     <string name="coprocessor_version">副处理器固件版本：</string>
+    <string name="corresponsive">通信者</string>
     <string name="crc_error">CRC错误。</string>
     <string name="csn">CSN： </string>
     <string name="currency_with_colon">货币：</string>
@@ -223,6 +225,7 @@
     <string name="length_incorrect">Length incorrect</string>
     <string name="load_log">圈存日志：\n</string>
     <string name="location">位置：</string>
+    <string name="logout">登出</string>
     <string name="mac">MAC：</string>
     <string name="mac_ksn">MAC KSN：</string>
     <string name="mag_head_fail">磁头启动失败</string>

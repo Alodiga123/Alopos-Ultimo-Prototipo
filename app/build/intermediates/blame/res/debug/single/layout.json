@@ -1,19 +1,19 @@
 [
     {
-        "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/control_led_dialog.xml",
-        "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/control_led_dialog.xml"
-    },
-    {
         "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/index_activity.xml",
         "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/index_activity.xml"
     },
     {
-        "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/refer_process_dialog.xml",
-        "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/refer_process_dialog.xml"
+        "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/control_led_dialog.xml",
+        "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/control_led_dialog.xml"
     },
     {
         "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/bluetooth_4_device_list_dialog.xml",
         "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/bluetooth_4_device_list_dialog.xml"
+    },
+    {
+        "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/refer_process_dialog.xml",
+        "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/refer_process_dialog.xml"
     },
     {
         "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/refer_process_dialog.xml",
@@ -52,12 +52,12 @@
         "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/check_card_mode_dialog.xml"
     },
     {
-        "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/amount_dialog.xml",
-        "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/amount_dialog.xml"
-    },
-    {
         "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/layout/amount_dialog.xml",
+        "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/layout/amount_dialog.xml"
     },
     {
         "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/layout/inject_mk.xml",

@@ -1996,22 +1996,22 @@ public class BaseActivity extends FragmentActivity {
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
-		if (item.getItemId() == R.id.menu_start_connection) {
+		if (item.getItemId() == R.id.goods) {
 			promptForConnection();
 			return true;
-		} else if (item.getItemId() == R.id.menu_stop_connection) {
+		} else if (item.getItemId() == R.id.corresponsive) {
 			stopConnection();
 			return true;
-		} else if (item.getItemId() == R.id.menu_init_session) {
+		} else if (item.getItemId() == R.id.closure) {
 			statusEditText.setText(R.string.initializing_session);
 			promptForInitSession();
-		} else if (item.getItemId() == R.id.menu_reset_session) {
+		} else if (item.getItemId() == R.id.defaultSettings) {
 			statusEditText.setText(R.string.reset_session);
 			bbDeviceController.resetSession();
-		} else if (item.getItemId() == R.id.menu_get_deivce_info) {
+		} else if (item.getItemId() == R.id.logout) {
 			statusEditText.setText(R.string.getting_info);
 			bbDeviceController.getDeviceInfo();
-		} else if(item.getItemId() == R.id.menu_unpair_all) {
+		}/* else if(item.getItemId() == R.id.menu_unpair_all) {
     		new Thread(new Runnable() {
 				@Override
 				public void run() {
@@ -2180,7 +2180,7 @@ public class BaseActivity extends FragmentActivity {
 		} else if (item.getItemId() == R.id.menu_updateAID) {
 			statusEditText.setText(R.string.updating_aid_please_wait);
 			promptForUpdateAID();
-		}
+		}*/
 		return true;
 	}
 
@@ -3412,21 +3412,21 @@ public class BaseActivity extends FragmentActivity {
 
 
             if (!isPinCanceled) {
-                dialog = new Dialog(currentActivity);
+       /*         dialog = new Dialog(currentActivity);
                 dialog.setContentView(R.layout.confirm_dialog);
                 dialog.setTitle(getString(R.string.confirm_amount));
 
                 String message = getString(R.string.amount) + ": Bs. " + amount;
                 if (!cashbackAmount.equals("")) {
                     message += "\n" + getString(R.string.cashback_amount) + ": Bs. " + cashbackAmount;
-                }
+                }*/
 
-                ((TextView) dialog.findViewById(R.id.messageTextView)).setText(message);
+                //((TextView) dialog.findViewById(R.id.messageTextView)).setText(message);
 
-                dialog.findViewById(R.id.confirmButton).setOnClickListener(
-                        new OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
+//                dialog.findViewById(R.id.confirmButton).setOnClickListener(
+//                        new OnClickListener() {
+//                            @Override
+//                            public void onClick(View v) {
                                 bbDeviceController.sendFinalConfirmResult(true);
 
                                 new Thread(new Runnable() {
@@ -3482,23 +3482,23 @@ public class BaseActivity extends FragmentActivity {
                                         }
                                     }}).start();
 
-                                dialog.dismiss();
+//                                dialog.dismiss();
 
 
-                            }
-                        });
+                         //   }
+                      //  });
 
-                dialog.findViewById(R.id.cancelButton).setOnClickListener(
-                        new OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
-                                bbDeviceController.sendFinalConfirmResult(false);
-                                dialog.dismiss();
-                                stopConnection();
-                            }
-                        });
-
-                dialog.show();
+//                dialog.findViewById(R.id.cancelButton).setOnClickListener(
+//                        new OnClickListener() {
+//                            @Override
+//                            public void onClick(View v) {
+//                                bbDeviceController.sendFinalConfirmResult(false);
+//                                dialog.dismiss();
+//                                stopConnection();
+//                            }
+//                        });
+//
+//                dialog.show();
             } else {
                 bbDeviceController.sendFinalConfirmResult(false);
             }

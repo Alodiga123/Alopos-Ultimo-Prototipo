@@ -501,4 +501,7 @@
     <string name="invalid_transaction">Invalid transaction</string>
     <string name="terminal_failure">Terminal failure</string>
     <string name="invalid_card">Invalid card</string>
+    <string name="corresponsive">Corresponsive</string>
+    <string name="closure">Closure</string>
+    <string name="logout">Logout</string>
 </resources>

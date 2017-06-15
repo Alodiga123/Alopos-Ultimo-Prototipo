@@ -32,4 +32,9 @@
     <string name="terminal_failure">Fallo del terminal</string>
     <string name="invalid_card">Tarjeta inválida</string>
     <string name="select_account">Seleccione tipo de cuenta</string>
+    <string name="corresponsive">Corresponsalia</string>
+    <string name="closure">Cierre</string>
+    <string name="default_settings">Ajustes</string>
+    <string name="set_amount">Colocar monto</string>
+    <string name="logout">Cerrar sesión</string>
 </resources>

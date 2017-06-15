@@ -172,6 +172,10 @@
         "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/drawable-xhdpi/prueba_login.png"
     },
     {
+        "merged": "/home/usuario/Descargas/TerminalPosMobile/app/build/intermediates/res/merged/debug/drawable-xhdpi/logout.png",
+        "source": "/home/usuario/Descargas/TerminalPosMobile/app/src/main/res/drawable-xhdpi/logout.png"
+    },
+    {
         "merged": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_user.png",
         "source": "/home/usuario/Descargas/Alopos-Ultimo-Prototipo/app/src/main/res/drawable-xhdpi/icon_user.png"
     },
